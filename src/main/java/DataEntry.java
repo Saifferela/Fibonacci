@@ -10,7 +10,6 @@ public class DataEntry {
     }
 
     //Setter - Getter number
-
     public void setNumber(){
 
         while(!console.hasNextByte())
